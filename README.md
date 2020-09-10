@@ -19,6 +19,6 @@ finally run the following command to seed the database with dummy content.
 
 ### API EndPoints
 *Post GET All `http://apitickets.test:8888/tickets`
-*Post POST Single `http://apitickets.test:8888/tickets/1`
+*Post POST Create `http://apitickets.test:8888/tickets/create`
 
 
